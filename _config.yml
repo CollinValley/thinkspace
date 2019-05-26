@@ -1,8 +1,8 @@
 # Site settings
-title_left    : "Collin"
-title_right   : "Valley" # default: ""
+title_left    : "Collin Valley"
+title_right   : "" # default: ""
 description   : "The personal website of Collin Valley"
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+keywords      : "Jekyll, theme, blog, Collin, Valley, Rust, Meraki, Cisco"
 url           : https://collinvalley.com/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
