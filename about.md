@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi, my name is Collin Valley and I am a systems programmer. I currently work at Cisco Meraki, where I am 
+a platform engineer focusing on access points.
