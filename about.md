@@ -16,5 +16,5 @@ in the first place. I wanted to build something, kind of from the ground up, and
 but I learned a great deal in the process.
 
 My interests have lately been with Rust. There isn't much I can say here that hasn't already been said; if you are a systems programmer
-who is tired of C++, and would like a higher, but still performant, language give it a go! I've also been eye-balling Go lately, though 
+who is tired of C++, and would like a higher, but still performant, language give it a go! I've also been eye-balling Go lately, though
 I have not dipped my toes in yet.
